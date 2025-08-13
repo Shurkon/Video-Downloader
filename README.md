@@ -1,5 +1,5 @@
+¡Hola a todos! Aquí os comparto un script en Python que he usado para descargar videos de YouTube. Os puede ser útil como alternativa a las webs para descargar videos que muchas veces recopilan datos a traves de cookies.
 
-¡Hola a todos! Aquí os paso un script en Python que he usado para descargar videos de YouTube. Os puede ser útil como alternativa a las webs para descargar videos que muy seguramente recopilarán datos a traves de cookies
 
 # Paquete necesario (Usando un entorno virtual)
 
