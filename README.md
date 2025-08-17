@@ -11,9 +11,9 @@ pip install yt_dlp
 
 # Instalar ffmpeg para poder descargar los videos con una resolución alta
 
-**NOTA:** Si usais `script_sin_ffmepg.py` es posible que obtengais el video en una resolución demasiado baja. Es aconsejable descargar ffmpeg para poder utilizar `script_con_ffmepg.py`.
+**NOTA:** Si usais la opción 1 es posible que obtengais el video en una resolución demasiado baja. Es aconsejable descargar ffmpeg para poder descargar video en alta resolución.
 
-**NOTA2:** Es posible que el video resultante de usar `script_con_ffmepg.py` no funcione si se usa VLC. En este caso, probad a cambiar de reproductor.
+**NOTA2:** Es posible que el video resultante de usar la opción 2 no funcione si se usa VLC. En este caso, probad a cambiar de reproductor.
 
 ```
 sudo apt install ffmpeg
